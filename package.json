@@ -1,0 +1,17 @@
+{
+  "name": "test-longest-prefix",
+  "version": "1.0.0",
+  "main": "longest-prefix.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node longest-prefix.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}
